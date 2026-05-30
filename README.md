@@ -21,15 +21,11 @@ This project demonstrates how fundamental programming concepts can be applied to
    git clone https://github.com/your-username/tic-tac-toe-java.git
    
 ## Navigate to the project folder:
+cd tic-tac-toe-java\
 
-bash
-cd tic-tac-toe-java
-Compile the program:
-
-bash
+Compile the program:\
 javac SimpleTicTacToe.java
 ## Run the game:
-bash/
 java SimpleTicTacToe
 ## 🧠 What I Learned
 Using nested loops to manage a grid
@@ -46,6 +42,6 @@ Code\
   ---+---+---\
    O | X | O\
   ---+---+---\
-   X |   | O\
+   X | 0 | O\
 ➡️ Player X wins!
 
