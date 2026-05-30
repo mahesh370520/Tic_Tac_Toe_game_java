@@ -22,30 +22,30 @@ This project demonstrates how fundamental programming concepts can be applied to
    
 ## Navigate to the project folder:
 
-bash/
+bash
 cd tic-tac-toe-java
 Compile the program:
 
-bash/
+bash
 javac SimpleTicTacToe.java
-## Run the game:/
+## Run the game:
 bash/
 java SimpleTicTacToe
 ## 🧠 What I Learned
-Using nested loops to manage a grid/
+Using nested loops to manage a grid
 
-Applying conditional logic for win/draw checks/
+Applying conditional logic for win/draw checks
 
-Handling user input with Scanner/
+Handling user input with Scanner
 
-Writing clean, beginner-friendly Java code/
+Writing clean, beginner-friendly Java code
 
 ### 📸 Sample Gameplay
 Code
-   X | O | X
+   X | O | X\
   ---+---+---
-   O | X | O
+   O | X | O\
   ---+---+---
-   X |   | O
+   X |   | O\
 ➡️ Player X wins!
 
