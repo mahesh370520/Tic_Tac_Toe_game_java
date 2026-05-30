@@ -19,28 +19,28 @@ This project demonstrates how fundamental programming concepts can be applied to
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/tic-tac-toe-java.git
-Navigate to the project folder:
+   
+## Navigate to the project folder:
 
-bash
+bash/
 cd tic-tac-toe-java
 Compile the program:
 
-bash
+bash/
 javac SimpleTicTacToe.java
-Run the game:
-
-bash
+## Run the game:/
+bash/
 java SimpleTicTacToe
-🧠 What I Learned
-Using nested loops to manage a grid
+## 🧠 What I Learned
+Using nested loops to manage a grid/
 
-Applying conditional logic for win/draw checks
+Applying conditional logic for win/draw checks/
 
-Handling user input with Scanner
+Handling user input with Scanner/
 
-Writing clean, beginner-friendly Java code
+Writing clean, beginner-friendly Java code/
 
-📸 Sample Gameplay
+### 📸 Sample Gameplay
 Code
    X | O | X
   ---+---+---
@@ -49,11 +49,3 @@ Code
    X |   | O
 ➡️ Player X wins!
 
-🔖 Tags
-Java TicTacToe Console Game Learning By Doing
-
-Code
-
-This version is **straightforward and professional**, perfect for GitHub or portfolio use.  
-
-Would you like me to also create a **short one‑liner project description** (like a tagline) that you can use on GitHub or LinkedIn alongside this README?
