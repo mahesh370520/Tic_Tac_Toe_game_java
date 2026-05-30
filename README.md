@@ -41,11 +41,11 @@ Handling user input with Scanner
 Writing clean, beginner-friendly Java code
 
 ### 📸 Sample Gameplay
-Code
+Code\
    X | O | X\
-  ---+---+---
+  ---+---+---\
    O | X | O\
-  ---+---+---
+  ---+---+---\
    X |   | O\
 ➡️ Player X wins!
 
