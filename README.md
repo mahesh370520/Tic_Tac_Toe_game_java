@@ -21,7 +21,7 @@ This project demonstrates how fundamental programming concepts can be applied to
    git clone https://github.com/your-username/tic-tac-toe-java.git
    
 ## Navigate to the project folder:
-cd tic-tac-toe-java\
+cd tic-tac-toe-java
 
 Compile the program:\
 javac SimpleTicTacToe.java
